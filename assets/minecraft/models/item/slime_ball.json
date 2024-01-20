@@ -1,0 +1,29 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/slime_ball"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "item/slime_ball/presente_asas_de_fogo"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/slime_ball/presente_chavona"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/slime_ball/presente_pinga"},
+		{"predicate": {"custom_model_data":1003}, "model": "chapeus/chapeu_urso"},
+		{"predicate": {"custom_model_data":1004}, "model": "chapeus/mascara_golem_de_cobre"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/slime_ball/arvore_natalina"},
+		{"predicate": {"custom_model_data":1006}, "model": "item/slime_ball/espada_verde"},
+		{"predicate": {"custom_model_data":1007}, "model": "chapeus/espada_espadinha"},
+		{"predicate": {"custom_model_data":1008}, "model": "chapeus/mascara_de_guardian"},
+		{"predicate": {"custom_model_data":1009}, "model": "item/slime_ball/chinelo"},
+		{"predicate": {"custom_model_data":1010}, "model": "chapeus/machado_melancia"},
+		{"predicate": {"custom_model_data":1011}, "model": "chapeus/mochila_axolote"},
+		{"predicate": {"custom_model_data":1012}, "model": "item/slime_ball/elytra_asas_dragao"},
+		{"predicate": {"custom_model_data":1013}, "model": "chapeus/chapeu_cogumelo"},
+		{"predicate": {"custom_model_data":1014}, "model": "item/slime_ball/presente_cerveja"},
+		{"predicate": {"custom_model_data":1015}, "model": "item/slime_ball/presente_arco"}
+
+
+
+
+	]
+}
